@@ -1,4 +1,6 @@
 # With all nodes
+![Image alt](https://github.com/laser4622/ds9/blob/master/Screenshot%202019-11-02%20at%2001.05.36.png)
+
 
 rs0:SECONDARY> rs.status()
 ```
@@ -218,6 +220,9 @@ rs0:PRIMARY> rs.config()
 }
 ```
 # After drop primary node
+
+![Image alt](https://github.com/laser4622/ds9/blob/master/Screenshot%202019-11-02%20at%2001.10.11.png)
+
 
 rs0:PRIMARY> rs.status()
 ```
